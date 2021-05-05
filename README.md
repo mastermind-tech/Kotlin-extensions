@@ -2,10 +2,25 @@
 A collection of useful Kotlin extension functions in one place.
 
 ### Extensions
-* Views
-* Contexts
-  * Activity
-  * Fragments
-  * Application
-* Security
-* Dialogs
+* [Views](#views)
+* [Contexts](#contexts)
+  * [Activity](#activity)
+  * [Fragments](#fragments)
+  * [Application](#application)
+* [Security](#security)
+* [Dialogs](#dialogs)
+
+
+## Views
+
+## Contexts
+
+### Activity
+
+### Fragments
+
+### Application
+
+## Security
+
+## Dialogs
